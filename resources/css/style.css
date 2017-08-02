@@ -1,0 +1,41 @@
+html {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+
+h1, h2 {
+  color:White;
+  font-family: Franklin Gothic Medium, Impact, Verdana;
+}
+
+h1 {
+  font-weight:bold;
+  font-size: 50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size 42px;
+}
+a p {
+  color: Aquamarine;
+  font-size:16px;
+}
+
+p {
+  font-size:21px;
+  color: gray;
+}
+
+#signature {
+  text-align: right;
+  color: grey;
+  font-size:21px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
